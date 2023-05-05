@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This website was built using HTML, CSS, and JavaScript. 
 
-Check it out [here](krishitaliya.netlify.com)!
+Check it out [here](krishitaliya.netlify.com)
 
 ## Technologies Used
 
