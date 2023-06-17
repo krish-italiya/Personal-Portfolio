@@ -19,7 +19,7 @@ Check it out [here](https://krishitaliya.netlify.app/)
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/your-portfolio.git`
+1. Clone this repository: `git clone https://github.com/krish-italiya/Personal-Portfolio.git`
 2. Open the index.html file in your web browser.
 
 ## Usage
